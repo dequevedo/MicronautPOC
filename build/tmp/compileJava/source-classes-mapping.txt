@@ -1,0 +1,6 @@
+com/mocronautpoc/MainController.java
+ com.mocronautpoc.MainController
+com/mocronautpoc/Person.java
+ com.mocronautpoc.Person
+com/mocronautpoc/Application.java
+ com.mocronautpoc.Application
