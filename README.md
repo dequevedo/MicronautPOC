@@ -1,4 +1,8 @@
-## Feature http-client documentation
+## POC Micronaut with examples
+Author: Daniel Elvis Quevedo
 
-- [Micronaut Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
-
+Examples in this repository:
+* GET endpoint
+* POST endpoint
+* Database communication (to-do)
+* Microservice communication (to-do)
